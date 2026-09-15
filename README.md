@@ -16,19 +16,19 @@ Aku Faiz, Mahasiswa di **Institut Teknologi Bandung**, Fakultas Matematika dan I
 <tr>
 <td valign="top" width="50%" align="center">
 
-#### ✨ Language Skills
+**✨ Language Skills**
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,cs,html,css,py,php&theme=light&perline=3">
 </p>
 
-#### 🎨 Creative Tools
+**🎨 Other Skills**
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ps,ai,pr,blender&theme=light&perline=4">
 </p>
 
-#### 🎮 Game Development
+**🎮 Game Development**
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=unity,godot,unreal&theme=light&perline=3">
@@ -37,13 +37,13 @@ Aku Faiz, Mahasiswa di **Institut Teknologi Bandung**, Fakultas Matematika dan I
 </td>
 <td valign="top" width="50%" align="center">
 
-#### 📚 Currently Learning
+**📚 Currently Learning**
 
 <p align="center">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
 </p>
 
-#### 🌐 Social Media
+**🌐 Social Media**
 
 <p align="center">
   <a href="https://instagram.com/ameegalluvia">
