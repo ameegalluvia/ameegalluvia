@@ -1,6 +1,6 @@
 ![Header](img/github-header-banner.png)
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGk4aDgxb2FkenhsNTVhb29ibmpmdDR2bmRiZzJ2czk2NGhiMHRldiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ehgM1JRwNXAtaYDRzi/giphy.gif" width="100%">
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTVqN2puYjh6ajlpN2RjMm10c2txM254YzBwbzN4bTd3Mm16MzgxeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ehgM1JRwNXAtaYDRzi/giphy.gif" width="100%">
 
 Hai, aku adalah seorang Mahasiswa di **Institut Teknologi Bandung**, Fakultas Matematika dan Ilmu Pengetahuan Alam (FMIPA)💫
 
