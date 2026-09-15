@@ -1,26 +1,19 @@
-# Hai, aku Amezuya
+# Halooo
 
-<!--
-**ameegalluvia/ameegalluvia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aku adalah seorang Mahasiswa di **Institut Teknologi Bandung**, Fakultas Matematika dan Ilmu Pengetahuan Alam (FMIPA)💫
 
-Here are some ideas to get you started:
+#### ✨My Language Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Skills](https://skillicons.dev/icons?i=cpp,cs,html,css,python,php&theme=light&perline=6)](https://skillicons.dev)
 
-##### My Language Skills
+#### 🌦️Another Skills
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,cs,typescript,html,css,python,php&theme=light&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ps,ai,pr,blender&theme=light&perline=6)](https://skillicons.dev)
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,cs,typescript,html,css,python,php&theme=light&perline=5" />
-  </a>
-</p>
+#### ❤️I Like to Make a Games on
+
+[![My Skills](https://skillicons.dev/icons?i=unity,godot,unreal&theme=light&perline=6)](https://skillicons.dev)
+
+#### Currently learning
+
+![currently learning](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
