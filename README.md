@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hai, aku Amezuya
 
 <!--
 **ameegalluvia/ameegalluvia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+##### My Language Skills
+
+[![My Skills](https://skillicons.dev/icons?i=cpp,cs,typescript,html,css,python,php&theme=light&perline=5)](https://skillicons.dev)
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,cs,typescript,html,css,python,php&theme=light&perline=5" />
+  </a>
+</p>
