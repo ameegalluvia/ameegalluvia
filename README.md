@@ -6,15 +6,13 @@
 
 # cout << "Hello World!";
 
-Mahasiswa di **Institut Teknologi Bandung**, Fakultas Matematika dan Ilmu Pengetahuan Alam (FMIPA) 💫
+Aku Faiz, Mahasiswa di **Institut Teknologi Bandung**, Fakultas Matematika dan Ilmu Pengetahuan Alam (FMIPA) 💫
 
 </div>
 
 <br>
 
-<div align="center">
-
-<table align="center" border="0" cellpadding="10" cellspacing="0">
+<table align="center" width="100%" border="0" cellpadding="20" cellspacing="0">
 <tr>
 <td valign="top" width="50%" align="center">
 
@@ -60,8 +58,6 @@ Mahasiswa di **Institut Teknologi Bandung**, Fakultas Matematika dan Ilmu Penget
 </td>
 </tr>
 </table>
-
-</div>
 
 <br>
 
