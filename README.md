@@ -9,7 +9,9 @@ Hai, aku adalah seorang Mahasiswa di **Institut Teknologi Bandung**, Fakultas Ma
 ![My Skills](https://skillicons.dev/icons?i=cpp,cs,html,css,python,php&theme=light&perline=6)
 
 <p>
+    
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+    
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -28,6 +30,17 @@ Hai, aku adalah seorang Mahasiswa di **Institut Teknologi Bandung**, Fakultas Ma
 ### Currently learning
 
 ![currently learning](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+### Social Media
+
+<p>
+    <a href="https://instagram.com/ameegalluvia">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    </a>
+    <a href="https://tiktok.com/@ameegalluvia">
+        <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white">
+    </a>
+</p>
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=ameegalluvia&layout=compact&langs_count=4&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=ameegalluvia&layout=compact&langs_count=4&theme=transparent)
 
