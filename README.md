@@ -61,7 +61,7 @@ Aku Faiz, Mahasiswa di **Institut Teknologi Bandung**, Fakultas Matematika dan I
 
 <br>
 
-#### 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api/top-langs?username=ameegalluvia&layout=compact&langs_count=4&theme=transparent">
