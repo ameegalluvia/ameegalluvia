@@ -6,7 +6,7 @@
 
 ![Neon Header](https://raw.githubusercontent.com/ameegalluvia/ameegalluvia/refs/heads/main/neon-header.svg)
 
-Aku Faiz, Mahasiswa di **Institut Teknologi Bandung**, Fakultas Matematika dan Ilmu Pengetahuan Alam (FMIPA) 💫
+I'm Abdus Salam Faiz, known as Amezuya, a student at **Bandung Institute of Technology**, Faculty of Mathematics and Natural Sciences (FMIPA) 💫
 
 </div>
 
