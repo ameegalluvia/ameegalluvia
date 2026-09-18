@@ -78,8 +78,8 @@
 
   </style>
   
-  <text id="line1" class="text" x="50%" y="50%">cout << "Hello, World!";</text>
-  <text id="line2" class="text" x="50%" y="50%">cout << "I'm Amezuya";</text>
+  <text id="line1" class="text" x="50%" y="50%">Hello, World!</text>
+  <text id="line2" class="text" x="50%" y="50%">I'm Amezuya</text>
   <text id="line3" class="text" x="50%" y="50%">Faculty of Mathematics and Natural Sciences Student</text>
   <text id="line4" class="text" x="50%" y="50%">From</text>
   <text id="line5" class="text" x="50%" y="50%">Bandung Institute of Technology</text>
