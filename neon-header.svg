@@ -1,0 +1,86 @@
+<svg width="700" height="100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style type="text/css">
+      @import url('https://fonts.googleapis.com/css?family=Russo+One');
+    </style>
+  </defs>
+
+  <style>
+    /* Animasi 1: Kedap-kedip Neon */
+    @keyframes neon-flicker {
+      0%, 100% {
+        fill: #01e0ca;
+        text-shadow: 0 0 5px #01e0ca, 0 0 10px #01e0ca, 0 0 20px #01e0ca;
+      }
+      50% {
+        fill: #fc439d;
+        text-shadow: 0 0 5px #fc439d, 0 0 10px #fc439d, 0 0 20px #fc439d;
+      }
+    }
+
+    /* Animasi 2: Siklus Muncul-Hilang (Fade In/Out) */
+    /* Total durasi: 12.5 detik (2.5 detik per baris) */
+
+    @keyframes cycle-1 {
+      0%    { opacity: 0; }
+      4%    { opacity: 1; } /* Fade in (0.5s) */
+      16%   { opacity: 1; } /* Tahan (1.5s) */
+      20%   { opacity: 0; } /* Fade out (0.5s) */
+      100%  { opacity: 0; }
+    }
+
+    @keyframes cycle-2 {
+      0%, 20%  { opacity: 0; }
+      24%      { opacity: 1; }
+      36%      { opacity: 1; }
+      40%      { opacity: 0; }
+      100%     { opacity: 0; }
+    }
+
+    @keyframes cycle-3 {
+      0%, 40%  { opacity: 0; }
+      44%      { opacity: 1; }
+      56%      { opacity: 1; }
+      60%      { opacity: 0; }
+      100%     { opacity: 0; }
+    }
+
+    @keyframes cycle-4 {
+      0%, 60%  { opacity: 0; }
+      64%      { opacity: 1; }
+      76%      { opacity: 1; }
+      80%      { opacity: 0; }
+      100%     { opacity: 0; }
+    }
+
+    @keyframes cycle-5 {
+      0%, 80%  { opacity: 0; }
+      84%      { opacity: 1; }
+      96%      { opacity: 1; }
+      100%     { opacity: 0; }
+    }
+    
+    /* Style dasar untuk teks */
+    .text {
+      font-family: 'Russo One', sans-serif;
+      font-size: 30px;
+      text-anchor: middle;
+      /* Ini kuncinya: ratakan teks secara vertikal di tengah */
+      dominant-baseline: middle; 
+      opacity: 0; /* Mulai dalam keadaan tersembunyi */
+    }
+    
+    #line1 { animation: neon-flicker 1.5s infinite alternate, cycle-1 12.5s infinite; }
+    #line2 { animation: neon-flicker 1.5s infinite alternate, cycle-2 12.5s infinite; }
+    #line3 { animation: neon-flicker 1.5s infinite alternate, cycle-3 12.5s infinite; }
+    #line4 { animation: neon-flicker 1.5s infinite alternate, cycle-4 12.5s infinite; }
+    #line5 { animation: neon-flicker 1.5s infinite alternate, cycle-5 12.5s infinite; }
+
+  </style>
+  
+  <text id="line1" class="text" x="50%" y="50%">cout << "Hello, World!";</text>
+  <text id="line2" class="text" x="50%" y="50%">cout << "I'm Amezuya";</text>
+  <text id="line3" class="text" x="50%" y="50%">Faculty of Mathematics and Natural Sciences Student</text>
+  <text id="line4" class="text" x="50%" y="50%">From</text>
+  <text id="line5" class="text" x="50%" y="50%">Bandung Institute of Technology</text>
+</svg>
