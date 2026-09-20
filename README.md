@@ -6,7 +6,7 @@
 
 ![Neon Header](https://raw.githubusercontent.com/ameegalluvia/ameegalluvia/refs/heads/main/neon-header.svg)
 
-I'm Abdus Salam Faiz, known as Amezuya, a student at **Bandung Institute of Technology**, Faculty of Mathematics and Natural Sciences (FMIPA) 
+I'm Abdus Salam Faiz, known as Amezuya, a student at **Bandung Institute of Technology**, Faculty of Mathematics and Natural Sciences (FMIPA) 🌕✨
 
 </div>
 
@@ -16,7 +16,7 @@ I'm Abdus Salam Faiz, known as Amezuya, a student at **Bandung Institute of Tech
 <tr>
 <td valign="top" width="50%" align="center">
 
-**✨ Language Skills**
+**⚡ Language Skills**
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,cs,html,css,py,php&theme=light&perline=3">
