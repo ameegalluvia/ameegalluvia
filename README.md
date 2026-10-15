@@ -19,7 +19,7 @@ I'm Abdus Salam Faiz, known as Amezuya, a student at **Bandung Institute of Tech
 **⚡ Language Skills**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,html,css,py,php&theme=light&perline=3">
+  <img src="https://skillicons.dev/icons?i=py,cpp,cs,html,css,php&theme=light&perline=3">
 </p>
 
 **🎨 Other Skills**
